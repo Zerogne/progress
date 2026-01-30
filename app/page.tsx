@@ -72,7 +72,7 @@ export default function ClassProgressTracker() {
           <span className="font-medium text-muted-foreground text-sm">Нэр</span>
           <div className="flex items-center gap-6">
             <span className="text-muted-foreground text-xs font-medium tracking-wide">Сертификат</span>
-            <span className="text-muted-foreground text-xs font-medium tracking-wide">Портфель</span>
+            <span className="text-muted-foreground text-xs font-medium tracking-wide">Portfolio</span>
           </div>
         </div>
 
